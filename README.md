@@ -1,4 +1,4 @@
-# personal-github-actions
+# Personal Github Actions
 
 This repo contains some personal GitHub Actions that do cool things for me.
 
